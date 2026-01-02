@@ -1,0 +1,101 @@
+<html>
+	<head>
+		<title>Tables and Forms</title>
+	</head>
+	<body>
+		<h1>Table</h1>
+		<table>
+			<caption><h2>Student Details</h2></caption>
+			<thead>
+				<tr>
+					<th>Roll No.</th>
+					<th>Name</th>
+					<th>Guardian's Name</th>
+					<th>Gender</th>
+					<th>Phone No.</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td>Abhishek Patel</td>
+					<td>Rajendra Patel</td>
+					<td>Male</td>
+					<td>9458583150</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Anjana Chaubey</td>
+					<td>Arvind Chaubey</td>
+					<td>Female</td>
+					<td>9458543150</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Bhairav Bora</td>
+					<td>Riddhi Bora</td>
+					<td>Female</td>
+					<td>9458583623</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>Dinesh Sharma</td>
+					<td>Raghav Sharma</td>
+					<td>Male</td>
+					<td>9458664435</td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>John Goldman</td>
+					<td>Anthony Goldman</td>
+					<td>Male</td>
+					<td>9455283150</td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>Mohammed Arman Rehman </td>
+					<td>Mohammed Tanweer Rehan </td>
+					<td>Male</td>
+					<td>9458583350</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<h1>Form</h1>
+		<form id="form">
+			<label for="roll_no">Roll No.</label>
+			<br>
+			<input type="text" id="roll_no" placeholder="Enter Roll No.">
+			<br>
+
+			<label for="name">Name</label>
+			<br>
+			<input type="text" id="name" placeholder="Enter Name">
+			<br>
+
+			<label for="guardian">Guardian</label>
+			<br>
+			<input type="text" id="guardian" placeholder="Enter Guardian Name">
+			<br>
+
+			<label for="gender">Gender</label>
+			<br>
+			<input type="radio" id="male" name="Male" value="Male">
+			<label for="male">Male</label>
+			<br>
+			<input type="radio" id="female" name="Female" value="Female">
+			<label for="female">Female</label>
+			<br>
+
+			<label for="city">City</label>
+			<select name="city" id="city">
+				<option value="Delhi"> Delhi </option>
+				<option value="Mumbai"> Mumbai </option>
+				<option value="Bengaluru"> Bengaluru </option>
+			</select>
+		</form>
+		
+		<button type="submit" form="form" value="Submit">Submit</button>
+	</body>
+</html>
+

@@ -14,6 +14,6 @@ Day 3
 <img width="1920" height="1080" alt="Day3_Screenshot2" src="https://github.com/user-attachments/assets/4044f5a5-dd3d-45e4-a6ea-0b4553e509d8" />
 
 Day 4
-<img width="1920" height="1080" alt="Day4_Screenshot1" src="https://github.com/user-attachments/assets/e662469a-931e-4a1e-b0ef-20a789c0eec6" />
-<img width="1920" height="1080" alt="Day4_Screenshot2" src="https://github.com/user-attachments/assets/52750d77-4947-4b44-aae0-62e91037151d" />
-<img width="1920" height="1080" alt="Day4_Screenshot3" src="https://github.com/user-attachments/assets/2c58f73f-22c2-498d-9db4-f28305b89024" />
+<img width="1920" height="1080" alt="Day4_Screenshot1" src="https://github.com/user-attachments/assets/6240aac3-4b0c-4304-a6cf-a667efa833fc" />
+<img width="1920" height="1080" alt="Day4_Screenshot2" src="https://github.com/user-attachments/assets/d1c25cc3-6c2f-4143-b95a-1f1dd70c6567" />
+<img width="1920" height="1080" alt="Day4_Screenshot3" src="https://github.com/user-attachments/assets/7ab3a219-5ab3-4f39-815f-34f033281a01" />

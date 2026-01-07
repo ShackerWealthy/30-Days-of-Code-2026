@@ -24,3 +24,6 @@ Day 5
 
 Day 6
 <img width="1920" height="1080" alt="Day6_Screenshot" src="https://github.com/user-attachments/assets/9f2e61eb-2075-415a-bd0b-eed1b6423dea" />
+
+Day 7
+<img width="1920" height="1080" alt="Day7_Screenshot" src="https://github.com/user-attachments/assets/068ddedb-f7ad-45dc-8836-2170b9204889" />

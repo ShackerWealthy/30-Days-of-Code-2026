@@ -1,4 +1,4 @@
-30 Days of Code 2026
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9816dd63-6c30-4a6a-b8b8-d55e6cab2702" />30 Days of Code 2026
 Name      : Ayushmann Das
 Roll No.  : 25118023
 Branch    : IT
@@ -27,3 +27,6 @@ Day 6
 
 Day 7
 <img width="1920" height="1080" alt="Day7_Screenshot" src="https://github.com/user-attachments/assets/068ddedb-f7ad-45dc-8836-2170b9204889" />
+
+Day 8
+<img width="1920" height="1080" alt="Day8_Screenshot" src="https://github.com/user-attachments/assets/d170bca2-d479-4ae6-9a54-7abd6b457045" />

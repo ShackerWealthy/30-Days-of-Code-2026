@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9816dd63-6c30-4a6a-b8b8-d55e6cab2702" />30 Days of Code 2026
+30 Days of Code 2026
 Name      : Ayushmann Das
 Roll No.  : 25118023
 Branch    : IT

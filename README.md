@@ -33,3 +33,6 @@ Day 8
 
 Day 9
 <img width="1920" height="1080" alt="Day9_Screenshot" src="https://github.com/user-attachments/assets/74b730be-8104-4367-b487-9ec411bfb3a4" />
+
+Day 10
+<img width="1491" height="797" alt="Day10_Screenshot" src="https://github.com/user-attachments/assets/02b27d89-cd10-41a8-8cd9-8533d592c03d" />

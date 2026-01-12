@@ -39,3 +39,6 @@ Day 10
 
 Day 11
 <img width="1540" height="745" alt="Day11_Screenshot" src="https://github.com/user-attachments/assets/5c56c262-944c-4e72-9f2a-6ba70cce4218" />
+
+Day 12
+<img width="1920" height="1080" alt="Day12_Screenshot" src="https://github.com/user-attachments/assets/5ba0978e-cc43-4913-96ce-eb4628677622" />
